@@ -1,4 +1,4 @@
 # new-apnacollege-demo
 this is my second git repository
 <br>
-Author - Shad Reyaz
+Author - Shad (apna college)
